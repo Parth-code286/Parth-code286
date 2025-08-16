@@ -13,7 +13,7 @@
 
 ### About Me:
 
-- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, Tailwind CSS
+- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, Tailwind CSS, TypeScript  
 - 📫 **Reach me at:** [ramnandwalkar2005@gmail.com](mailto:ramnandwalkar2005@gmail.com)
 
 ---
@@ -48,6 +48,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 5px;"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" style="margin: 5px;"/>
@@ -87,5 +90,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-code286&theme=dark" alt="GitHub Streak Stats" />
 </p>
-
----
