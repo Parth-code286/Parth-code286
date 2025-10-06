@@ -13,7 +13,7 @@
 
 ### About Me:
 
-- 💬 **Ask me about:** React.js, Node.js, Express, MongoDB, Tailwind CSS, TypeScript  
+- 💬 **Ask me about:** React.js, Next.js, Node.js, Nest.js, Express, MongoDB, Tailwind CSS, TypeScript  
 - 📫 **Reach me at:** [ramnandwalkar2005@gmail.com](mailto:ramnandwalkar2005@gmail.com)
 
 ---
@@ -55,6 +55,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" style="margin: 5px;"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="45" height="45" style="margin: 5px; background-color:white; border-radius:8px;"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45" style="margin: 5px;"/>
   </a>
@@ -64,6 +67,10 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45" style="margin: 5px;"/>
   </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="45" height="45" style="margin: 5px;"/>
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" style="margin: 5px;"/>
   </a>
